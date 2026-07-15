@@ -1,4 +1,4 @@
-# ☁️ PCS — Portable Cloud Server
+#  PCS — Portable Cloud Server
 
 > *A Raspberry Pi as a command-and-control server that manages containers locally and offloads heavy workloads to Oracle Cloud Free Tier — self-sustaining cloud infrastructure in your pocket.*
 
